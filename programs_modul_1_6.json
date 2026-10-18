@@ -1,0 +1,222 @@
+[
+  {
+    "module": 1,
+    "target": "lib/main.dart",
+    "label": "Langkah kerja - Hello World",
+    "folder": "MODUL_01/langkah_kerja",
+    "package": "modul_01_langkah_kerja",
+    "old_target": "lib/langkah_kerja.dart",
+    "http": false,
+    "assets": false
+  },
+  {
+    "module": 1,
+    "target": "lib/main.dart",
+    "label": "Tugas - Program Pertamaku",
+    "folder": "MODUL_01/tugas",
+    "package": "modul_01_tugas",
+    "old_target": "lib/tugas.dart",
+    "http": false,
+    "assets": false
+  },
+  {
+    "module": 2,
+    "target": "lib/main.dart",
+    "label": "Langkah 1 - Proyek awal",
+    "folder": "MODUL_02/langkah_1",
+    "package": "modul_02_langkah_1",
+    "old_target": "lib/langkah_1.dart",
+    "http": false,
+    "assets": false
+  },
+  {
+    "module": 2,
+    "target": "lib/main.dart",
+    "label": "Langkah 2 - Definisi widget kustom",
+    "folder": "MODUL_02/langkah_2",
+    "package": "modul_02_langkah_2",
+    "old_target": "lib/langkah_2.dart",
+    "http": false,
+    "assets": false
+  },
+  {
+    "module": 2,
+    "target": "lib/main.dart",
+    "label": "Langkah 3 - Menampilkan widget kustom",
+    "folder": "MODUL_02/langkah_3",
+    "package": "modul_02_langkah_3",
+    "old_target": "lib/langkah_3.dart",
+    "http": false,
+    "assets": false
+  },
+  {
+    "module": 2,
+    "target": "lib/main.dart",
+    "label": "Langkah 4 - Row",
+    "folder": "MODUL_02/langkah_4",
+    "package": "modul_02_langkah_4",
+    "old_target": "lib/langkah_4.dart",
+    "http": false,
+    "assets": false
+  },
+  {
+    "module": 2,
+    "target": "lib/main.dart",
+    "label": "Langkah 5 - Column",
+    "folder": "MODUL_02/langkah_5",
+    "package": "modul_02_langkah_5",
+    "old_target": "lib/langkah_5.dart",
+    "http": false,
+    "assets": false
+  },
+  {
+    "module": 2,
+    "target": "lib/main.dart",
+    "label": "Tugas - Grid favorit 2 x 2",
+    "folder": "MODUL_02/tugas",
+    "package": "modul_02_tugas",
+    "old_target": "lib/tugas.dart",
+    "http": false,
+    "assets": false
+  },
+  {
+    "module": 3,
+    "target": "lib/main.dart",
+    "label": "Langkah kerja 1-9 - Semua variasi alignment",
+    "folder": "MODUL_03/langkah_kerja",
+    "package": "modul_03_langkah_kerja",
+    "old_target": "lib/langkah_kerja.dart",
+    "http": false,
+    "assets": false
+  },
+  {
+    "module": 3,
+    "target": "lib/main.dart",
+    "label": "Tugas - UI cuaca Malang",
+    "folder": "MODUL_03/tugas",
+    "package": "modul_03_tugas",
+    "old_target": "lib/tugas.dart",
+    "http": false,
+    "assets": false
+  },
+  {
+    "module": 4,
+    "target": "lib/main.dart",
+    "label": "Percobaan 1 - Flexible",
+    "folder": "MODUL_04/percobaan_1",
+    "package": "modul_04_percobaan_1",
+    "old_target": "lib/langkah_kerja/percobaan_1.dart",
+    "http": false,
+    "assets": false
+  },
+  {
+    "module": 4,
+    "target": "lib/main.dart",
+    "label": "Percobaan 2 - Expanded",
+    "folder": "MODUL_04/percobaan_2",
+    "package": "modul_04_percobaan_2",
+    "old_target": "lib/langkah_kerja/percobaan_2.dart",
+    "http": false,
+    "assets": false
+  },
+  {
+    "module": 4,
+    "target": "lib/main.dart",
+    "label": "Tugas - Control bar musik",
+    "folder": "MODUL_04/tugas",
+    "package": "modul_04_tugas",
+    "old_target": "lib/tugas.dart",
+    "http": false,
+    "assets": false
+  },
+  {
+    "module": 5,
+    "target": "lib/main.dart",
+    "label": "Percobaan 1 - SizedBox",
+    "folder": "MODUL_05/percobaan_1",
+    "package": "modul_05_percobaan_1",
+    "old_target": "lib/langkah_kerja/percobaan_1.dart",
+    "http": false,
+    "assets": false
+  },
+  {
+    "module": 5,
+    "target": "lib/main.dart",
+    "label": "Percobaan 2 - Spacer",
+    "folder": "MODUL_05/percobaan_2",
+    "package": "modul_05_percobaan_2",
+    "old_target": "lib/langkah_kerja/percobaan_2.dart",
+    "http": false,
+    "assets": false
+  },
+  {
+    "module": 5,
+    "target": "lib/main.dart",
+    "label": "Percobaan 3 - Card lokasi wisata",
+    "folder": "MODUL_05/percobaan_3",
+    "package": "modul_05_percobaan_3",
+    "old_target": "lib/langkah_kerja/percobaan_3.dart",
+    "http": false,
+    "assets": false
+  },
+  {
+    "module": 5,
+    "target": "lib/main.dart",
+    "label": "Tugas - Card musik",
+    "folder": "MODUL_05/tugas",
+    "package": "modul_05_tugas",
+    "old_target": "lib/tugas.dart",
+    "http": false,
+    "assets": false
+  },
+  {
+    "module": 6,
+    "target": "lib/main.dart",
+    "label": "Percobaan 1 - GridView",
+    "folder": "MODUL_06/percobaan_1",
+    "package": "modul_06_percobaan_1",
+    "old_target": "lib/langkah_kerja/percobaan_1.dart",
+    "http": false,
+    "assets": true
+  },
+  {
+    "module": 6,
+    "target": "lib/main.dart",
+    "label": "Percobaan 2 - ListView",
+    "folder": "MODUL_06/percobaan_2",
+    "package": "modul_06_percobaan_2",
+    "old_target": "lib/langkah_kerja/percobaan_2.dart",
+    "http": false,
+    "assets": true
+  },
+  {
+    "module": 6,
+    "target": "lib/main.dart",
+    "label": "Percobaan 3 - GridView.builder berita API",
+    "folder": "MODUL_06/percobaan_3",
+    "package": "modul_06_percobaan_3",
+    "old_target": "lib/langkah_kerja/percobaan_3.dart",
+    "http": true,
+    "assets": false
+  },
+  {
+    "module": 6,
+    "target": "lib/main.dart",
+    "label": "Percobaan 4 - ListView.builder berita API",
+    "folder": "MODUL_06/percobaan_4",
+    "package": "modul_06_percobaan_4",
+    "old_target": "lib/langkah_kerja/percobaan_4.dart",
+    "http": true,
+    "assets": false
+  },
+  {
+    "module": 6,
+    "target": "lib/main.dart",
+    "label": "Tugas - Daftar game FreeToGame API",
+    "folder": "MODUL_06/tugas",
+    "package": "modul_06_tugas",
+    "old_target": "lib/tugas.dart",
+    "http": true,
+    "assets": false
+  }
+]
