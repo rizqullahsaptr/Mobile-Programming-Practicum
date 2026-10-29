@@ -10,7 +10,7 @@
 
 ## 📚 Praktikum Mobile Programming
 
-Repository ini berisi source code Flutter **Modul 1 sampai Modul 11 dan proyek UTS Sela**. Setiap langkah kerja, percobaan, atau tugas disusun dalam folder proyek Flutter mandiri.
+Repository ini berisi source code Flutter **Modul 1 sampai Modul 13 dan proyek UTS Sela**. Setiap langkah kerja, percobaan, atau tugas disusun dalam folder proyek Flutter mandiri.
 
 | No | Tgl | Praktikum ke | Topik | Laporan | Repository |
 |---|---|---|---|---|---|
@@ -25,6 +25,8 @@ Repository ini berisi source code Flutter **Modul 1 sampai Modul 11 dan proyek U
 | 9 | — | 09 | StatefulWidget dan Pengelolaan State dengan setState() | Praktikum di kelas | [Program](https://github.com/rizqullahsaptr/Mobile-Programming-Practicum/tree/main/MODUL_09) |
 | 10 | — | 10 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Laporan Modul 10 (PDF)](https://github.com/rizqullahsaptr/Mobile-Programming-Practicum/blob/main/MODUL_10/laporan/laporan_modul_10.pdf) | [Program](https://github.com/rizqullahsaptr/Mobile-Programming-Practicum/tree/main/MODUL_10) |
 | 11 | — | 11 | Manajemen State dengan GetX | [Laporan Modul 11 (PDF)](https://github.com/rizqullahsaptr/Mobile-Programming-Practicum/blob/main/MODUL_11/laporan/laporan_modul_11.pdf) | [Program](https://github.com/rizqullahsaptr/Mobile-Programming-Practicum/tree/main/MODUL_11) |
+| 12 | — | 12 | Akses Lokasi dengan GPS di Flutter | [Laporan Modul 12 (Word)](MODUL_12/laporan/laporan_modul_12.docx) | [Program](MODUL_12/) |
+| 13 | — | 13 | Operasi CRUD di Flutter dengan REST API | [Laporan Modul 13 (Word)](MODUL_13/laporan/laporan_modul_13.docx) | [Program](MODUL_13/) |
 | UTS | — | UTS | Sela: Aplikasi Pencarian Tempat Belajar | [Folder laporan UTS](https://drive.google.com/drive/folders/1NP5U38h_lvBAC0nMHjlRbhpxTvX_rxof?usp=sharing) | [Program](UTS/) |
 
 **Keterangan:** Praktikum Modul 3–9 telah diselesaikan di kelas; dokumentasi pada repository ini berupa source code. Tanggal pelaksanaan belum dicantumkan.
@@ -44,9 +46,11 @@ Repository ini berisi source code Flutter **Modul 1 sampai Modul 11 dan proyek U
 | [Modul 09](https://github.com/rizqullahsaptr/Mobile-Programming-Practicum/tree/main/MODUL_09) | `percobaan_1`, `percobaan_2`, `tugas` |
 | [Modul 10](https://github.com/rizqullahsaptr/Mobile-Programming-Practicum/tree/main/MODUL_10) | `tahap_1`, `tahap_2`, `tugas`, dan folder PDF `laporan` |
 | [Modul 11](https://github.com/rizqullahsaptr/Mobile-Programming-Practicum/tree/main/MODUL_11) | `langkah_kerja`, `tugas`, dan folder PDF `laporan` |
+| [Modul 12](MODUL_12/) | `langkah_kerja`, panduan `LANGKAH_KERJA.md`, dan laporan Word di `laporan` |
+| [Modul 13](MODUL_13/) | `langkah_kerja`, panduan `LANGKAH_KERJA.md`, dan laporan Word di `laporan` |
 | [UTS — Sela](UTS/) | Proyek Flutter mandiri: `lib`, `assets`, `docs`, dan `test` |
 
-Terdapat **35 proyek Flutter mandiri untuk modul**, serta satu proyek UTS Sela. Setiap folder proyek memiliki `pubspec.yaml` dan `lib/main.dart` sendiri.
+Terdapat **37 proyek Flutter mandiri untuk modul**, serta satu proyek UTS Sela. Setiap folder proyek memiliki `pubspec.yaml` dan `lib/main.dart` sendiri.
 
 ## ▶️ Menjalankan Program
 

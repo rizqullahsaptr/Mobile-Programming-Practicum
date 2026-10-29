@@ -1,0 +1,23 @@
+name: lokasi_flutter
+description: Praktikum Mobile Programming Modul 12
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: ^3.13.1
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.1.0
+  geolocator: ^14.0.0
+  geocoding: ^4.0.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+flutter:
+  uses-material-design: true
+
+dependency_overrides:
+  # Kompatibilitas hook native Windows pada Flutter 3.47.1.
+  path_provider_android: 2.2.15
+  path_provider_foundation: 2.4.1
