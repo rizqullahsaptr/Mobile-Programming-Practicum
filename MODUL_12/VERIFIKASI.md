@@ -23,7 +23,7 @@ Tanggal: 30 Oktober 2026. Pemeriksaan dilakukan oleh agen pada emulator, bukan u
 
 ## Penyesuaian dan batasan
 
-- Rincian versi dan penyesuaian kode ada pada LANGKAH_KERJA.md dan laporan Word.
+- Rincian versi dan penyesuaian kode ada pada LANGKAH_KERJA.md dan laporan PDF.
 - Lingkungan eksekusi desktop memerlukan socket Java pada folder workspace (`jdk.net.unixdomain.tmpdir`) untuk melewati kegagalan virtualisasi path sementara. Ini opsi proses pengujian, bukan perubahan keamanan Windows atau fitur aplikasi.
 - Belum ada uji perangkat Android fisik, iOS, pengukuran performa, atau pengumpulan LMS.
 

@@ -9,4 +9,4 @@ flutter pub get
 flutter run
 ```
 
-Laporan Word dan screenshot hasil aktual terdapat di [folder laporan](../laporan/). Hasil pemeriksaan tercatat di [VERIFIKASI.md](../VERIFIKASI.md).
+Laporan PDF dan screenshot hasil aktual terdapat di [folder laporan](../laporan/). Hasil pemeriksaan tercatat di [VERIFIKASI.md](../VERIFIKASI.md).
